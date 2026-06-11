@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# Data (too large for git)
+data/raw/
+data/processed/
+data/features/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX build artifacts
+manuscript/*.aux
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.log
+manuscript/*.out
+manuscript/*.synctex.gz
+manuscript/*.fls
+manuscript/*.fdb_latexmk
+manuscript/figs/*.aux
+manuscript/figs/*.log
+
+# Logs
+logs/
+
+# Claude Code
+.claude/
+memory/
