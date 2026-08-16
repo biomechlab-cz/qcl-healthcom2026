@@ -93,12 +93,7 @@ All experiments: `StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=42
 ## Citation
 
 ```bibtex
-@inproceedings{sokol2026hwqml,
-  author    = {Sokol, Marek and Hejda, Jan and Volf, Petr and Tich\'{y}, Ale\v{s} and Kut\'{i}lek, Patrik},
-  title     = {Hardware-Validated Multimodal Quantum Classifier for Biosignal Stress Recognition},
-  booktitle = {Proc. IEEE Healthcom},
-  year      = {2026}
-}
+Coming soon
 ```
 
 ## License
